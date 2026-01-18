@@ -1,5 +1,11 @@
 
 # 💫 About Me:
+<h1 align="center">Hi 👋, I'm Abhinav Shivanadri </h1>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=abhinav772007&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav772007" /> 
+</p>
+
+
 <br><br>I am a second-year undergraduate B.Tech student in Electrical Engineering at IIT Roorkee. I am deeply interested in Machine Learning, Large Language Models (LLMs), AI systems, and quantitative finance, with a strong aspiration to work in high-frequency trading (HFT) and other technology-driven finance roles.<br><br>I enjoy building a strong foundation across computer systems, mathematics, and machine learning, and I am motivated by solving complex, real-world problems at the intersection of technology and finance.
 
 
